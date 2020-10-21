@@ -1,0 +1,21 @@
+.hor-line {
+    height: 0px;
+    width: 100%;
+    border-bottom: 1px solid #aaaaaa;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.author-name {
+    color: #00558d;
+}
+
+.book-details {
+    height: 300px;
+    /* width: 200px; */
+}
+
+.page-btn {
+    padding: 20px;
+    background-color: #aaaaaa;
+}
